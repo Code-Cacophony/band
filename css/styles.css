@@ -1,0 +1,18 @@
+body {
+  background-color: lightslategray;
+}
+
+.sidebar {
+  color: orangered;
+  width: 180px;
+  height: 209px;
+  float: right;
+  background-image: url(/img/tour.jpg);
+  padding-top: 150px;
+}
+img {
+  float: inherit;
+}
+.main {
+  text-align: center;
+}
